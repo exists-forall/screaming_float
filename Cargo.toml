@@ -3,6 +3,8 @@ name = "screaming_float"
 version = "0.1.0"
 authors = ["William Brandon <hypercube97@gmail.com>"]
 edition = "2018"
+description = "Implements screaming NaNs"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
