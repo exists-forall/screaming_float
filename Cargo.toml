@@ -5,8 +5,7 @@ authors = ["William Brandon <hypercube97@gmail.com>"]
 edition = "2018"
 description = "Implements screaming NaNs"
 license = "MIT"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/exists-forall/screaming_float"
 
 [dependencies]
 noisy_float = "0.1.13"
